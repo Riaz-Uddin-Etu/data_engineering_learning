@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.dbni
